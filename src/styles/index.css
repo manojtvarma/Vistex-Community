@@ -1,0 +1,31 @@
+.is-circular { 
+  border-radius: 50%; 
+}
+.has-no-margin-bottom { 
+  margin-bottom: 0 !important;
+}
+
+.is-user-icon {
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  font-size: 20px;
+  color: #fff;
+  line-height: 40px;
+  text-align: center;
+  background: #3488ce;
+}
+
+.is-profile-picture{
+  width: 60px;
+  height: 60px;
+  border-radius: 30px;
+  font-size: 30px;
+  color: #fff;
+  line-height: 60px;
+  text-align: center;
+  background: hsl(0, 0%, 29%);
+}
+body{
+  font-family: 'Roboto', sans-serif;
+}
